@@ -1,0 +1,170 @@
+.container{
+    margin-top: -15px;
+    margin-left: -10px;
+    margin-right: -10px;
+    
+}
+.navbar{
+    background-color: black;
+    height: 70px;
+    width: 100%;
+}
+button{
+    margin-left: 650px;
+    background-color: skyblue;
+    width: 100px;
+    height: 25px;
+    color: white;
+    border: 1px solid skyblue;
+}
+.oppen{
+    font-size: 25px;
+    margin-left: 150px;
+    color: aliceblue;
+}
+.txmn1{
+    font-size: 18px;
+    margin-left: 50px;
+    color: beige;
+}
+.search{
+    font-size: 18px;
+    margin-left: 50px;
+    color:aliceblue;
+}
+.txmn2{
+    font-size: 18px;
+    margin-left: 50px;
+    color: beige;
+}
+.sidebar{
+    border: solid gray;
+    width: 500px;
+    height: 350px;
+    margin-left: 200px;
+    margin-top: 30px;
+}
+.header1{
+    background-color:skyblue;
+    height: 100px;
+    width: 500px;
+}
+.header1 img{
+    margin-top: 40px;
+    border-radius: 100%;
+    width: 100px;
+    margin-left: 10px;
+
+}
+.name1{
+    font-size: 25px;
+    margin-left: 25px;
+}
+.location img{
+    width: 10px;
+    margin-top: 10px;
+}
+.text1{
+    margin-left: 10px;
+    margin-top: 30px;
+}
+.nwt1{
+    margin-left: 10px;
+}
+.imgset{
+    color:blue;
+    font-size: 16px;
+    margin-top: 20px;
+}
+.box1{
+    border: solid gray;
+    width: 300px;
+    height: 150px;
+    margin-left: 600px;
+    margin-top: -310px;
+}
+.header2{
+    background-color: rgb(75, 74, 74);
+    color: aliceblue;
+    width: 300px;
+    height: 40px;
+    
+}
+.header2 button{
+border-radius: 100%;
+width: 20px;
+padding: 5px;
+margin: 10px;
+background-color: rgb(159, 154, 154);
+color: black;
+border:solid 1px rgb(164, 161, 161);
+margin-left: 0px;
+}
+.b1p1 img{
+    width: 30px;
+}
+.box2{
+    margin-top: 60px;
+    border: solid gray;
+    height: 250px;
+}
+.header3{
+    background-color: rgb(75, 74, 74);
+    color: aliceblue;
+    width: 300px;
+    height: 40px;
+}
+.header3 button{
+    border-radius: 100%;
+    width: 50px;
+    padding: 5px;
+    margin: 10px;
+    background-color: rgb(159, 154, 154);
+    color: black;
+    border:solid 1px rgb(164, 161, 161);
+    margin-left: 0px;
+    }
+.box2 img{
+    width: 30px;
+}
+.box3{
+    border: 1px solid gray;
+    margin-top: 15px;
+    color: skyblue;
+    padding-left: 10px;
+}
+.box4{
+    border: 1px solid gray;
+    margin-left: -600px;
+    margin-right: 400px;
+    
+}
+.header4{
+    background-color: rgb(93, 93, 93);
+    height: 30px;
+    color: aliceblue;
+    padding: 5px;
+    padding-left: 10px;
+
+}
+.name p{
+    font-size: 25px;
+}
+.time p{
+    color: rgb(150, 146, 146);
+    font-size: 15px;
+}
+.discription p{
+    color: black;
+}
+.d-flex{
+    display: flex;
+}
+.d-flex1{
+    display: flex;
+
+}
+.navbar ul{
+    list-style: none;
+    padding-top: 20px;
+}
